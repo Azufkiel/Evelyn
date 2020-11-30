@@ -61,7 +61,7 @@
       function vid(){
         var vids = document.getElementsByClassName("video");
         console.log(vids);
-        vids.style.display = "block";
+        vids[0].style.display = "block";
       }
     </script>
 </html>
