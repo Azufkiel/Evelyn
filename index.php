@@ -2,6 +2,8 @@
     <head>
         <title>Happy Birthday Evelyn</title>
         <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css">
+        <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
         <script>
             function startTime() {
               var today = new Date();
@@ -31,10 +33,15 @@
                   Happy Birthday Evelyn<br>
                   We Wish You All The Best
                 </a>
-                <!--div class='tooltip'>
-                    Dede<span class='tooltiptext'>a</span>
-                </div-->
             </h2>
+            <h3>This is just a simple web i made for you.. hope you like it :)</h3>
+            <button class="btn btn-primary">Click Here.. i put a song for you</button>
+            <div>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/ib8DHcaTFag" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen></iframe>
+            </div>
             <div class="box">
                 <div></div>
                 <div></div>
