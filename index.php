@@ -35,7 +35,7 @@
                   We Wish You All The Best
                 </a>
             </h2>
-            <button class="btn btn-primary">Click Here.. i put a song for you</button>
+            <button class="btn btn-primary" OnClick="vid()">Click Here.. i put a song for you</button>
             <div class="video">
               <iframe width="560" height="315" src="https://www.youtube.com/embed/ib8DHcaTFag" 
                 frameborder="0" 
@@ -57,4 +57,10 @@
             </div>
         </div>
     </body>
+    <script>
+      function vid(){
+        var vids = document.getElementsByClassName("video");
+        vids.style.display = "block";
+      }
+    </script>
 </html>
