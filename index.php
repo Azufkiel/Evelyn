@@ -60,6 +60,7 @@
     <script>
       function vid(){
         var vids = document.getElementsByClassName("video");
+        console.log(vids);
         vids.style.display = "block";
       }
     </script>
