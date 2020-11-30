@@ -1,6 +1,6 @@
 <hmtl>
     <head>
-        <title>Dede Dwi Cahyati</title>
+        <title>Happy Birthday Evelyn</title>
         <link rel="stylesheet" href="style.css">
         <script>
             function startTime() {
@@ -35,7 +35,6 @@
                     Dede<span class='tooltiptext'>a</span>
                 </div-->
             </h2>
-            <h2 class="line-1 anim-typewriter" id="wish">Have a Great Day!</h2>
             <div class="box">
                 <div></div>
                 <div></div>
