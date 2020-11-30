@@ -35,13 +35,13 @@
                   We Wish You All The Best
                 </a>
             </h2>
-            <h3>This is just a simple web i made for you.. hope you like it :)</h3>
             <button class="btn btn-primary">Click Here.. i put a song for you</button>
             <div class="video">
               <iframe width="560" height="315" src="https://www.youtube.com/embed/ib8DHcaTFag" 
-              frameborder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-              allowfullscreen></iframe>
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+                <h3>This is just a simple web i made for you.. hope you like it :)</h3>
             </div>
             <div class="box">
                 <div></div>
