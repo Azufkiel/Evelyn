@@ -43,6 +43,8 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen></iframe>
                 <h3>This is just a simple web i made for you.. hope you like it :)</h3>
+                <h3>you really deserve to get what you get right now.. thanks for always entertaining us</h3>
+                <h3>Terus Semangat, Terus berkarya, You are awesome for being what you are</h3>
             </div>
             <div class="im">
                 <div><img src="img/ballon2f.png"></div>
